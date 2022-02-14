@@ -1,0 +1,32 @@
+Thank you for purchasing AI & Player Cars with Animated IK Drivers, please consider leaving a review or joining the conversation on the discussion forum to let me know how I'm doing.
+
+
+
+Project Settings:
+Special Input and Tag/Layers settings are used by this asset; various asset packages are included to help get these setup in your project.
+
+NOTE: Importing these settings will overwrite your current Input or Tag/Layer settings.
+
+To setup the default required project input settings, select: Tools/TurnTheGameOn/IK Driver/Import/InputManager/Keyboard
+
+To setup the default required project tag/layer settings, select: Tools/TurnTheGameOn/IK Driver/Import/TagManager
+
+
+
+Demo scenes:
+Assets\TurnTheGameOn\IK Driver\Scenes
+
+
+
+Player and AI prefabs:
+Assets\TurnTheGameOn\IK Driver\Prefabs
+
+
+
+For details on specific settings please reference the user manual or tutorial videos; if you have questions please use the discussion forum.
+
+Online Manual: https://www.turnthegameon.net/manuals/ik-driver/1.7/en/topic/introduction
+
+Demo & Tutorial Videos: https://www.youtube.com/playlist?list=PLy0oHZ9DiHn_SFtkRMrRHdjgmNvbag3DS
+
+Discussion Forum: https://forum.unity.com/threads/ik-driver.380924/
