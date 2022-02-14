@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<USERDATA>
+  <Data TimeStamp="0">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>37 A 50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>ALGUM</UserFlicker>
+    <UserGlassesUse>NÃO</UserGlassesUse>
+    <UserVisionProblems>ASTIGMATISMO/MIOPIA</UserVisionProblems>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>True</CameraAutoMovement>
+    <TimeStamp>0</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10</PlayerSpeed>
+    <PlayerAcceleration>10</PlayerAcceleration>
+    <CameraRotationX>0</CameraRotationX>
+    <CameraRotationY>0</CameraRotationY>
+    <CameraRotationZ>0</CameraRotationZ>
+    <RegionOfInterest>foreground</RegionOfInterest>
+    <GameFps>0</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="1,026877">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>37 A 50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>ALGUM</UserFlicker>
+    <UserGlassesUse>NÃO</UserGlassesUse>
+    <UserVisionProblems>ASTIGMATISMO/MIOPIA</UserVisionProblems>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>True</CameraAutoMovement>
+    <TimeStamp>1,026877</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>0</CameraRotationX>
+    <CameraRotationY>0</CameraRotationY>
+    <CameraRotationZ>0</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>36</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="2,031113">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>37 A 50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>ALGUM</UserFlicker>
+    <UserGlassesUse>NÃO</UserGlassesUse>
+    <UserVisionProblems>ASTIGMATISMO/MIOPIA</UserVisionProblems>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>True</CameraAutoMovement>
+    <TimeStamp>2,031113</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>0</CameraRotationX>
+    <CameraRotationY>0</CameraRotationY>
+    <CameraRotationZ>0</CameraRotationZ>
+    <RegionOfInterest>middleground</RegionOfInterest>
+    <GameFps>54</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="3,034414">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>37 A 50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>ALGUM</UserFlicker>
+    <UserGlassesUse>NÃO</UserGlassesUse>
+    <UserVisionProblems>ASTIGMATISMO/MIOPIA</UserVisionProblems>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>True</CameraAutoMovement>
+    <TimeStamp>3,034414</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>0</CameraRotationX>
+    <CameraRotationY>0</CameraRotationY>
+    <CameraRotationZ>0</CameraRotationZ>
+    <RegionOfInterest>foreground</RegionOfInterest>
+    <GameFps>52</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="4,020977">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>37 A 50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>ALGUM</UserFlicker>
+    <UserGlassesUse>NÃO</UserGlassesUse>
+    <UserVisionProblems>ASTIGMATISMO/MIOPIA</UserVisionProblems>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>True</CameraAutoMovement>
+    <TimeStamp>4,020977</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10,5</PlayerSpeed>
+    <PlayerAcceleration>0,5</PlayerAcceleration>
+    <CameraRotationX>0</CameraRotationX>
+    <CameraRotationY>0</CameraRotationY>
+    <CameraRotationZ>0</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>54</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="5,029978">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>37 A 50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>ALGUM</UserFlicker>
+    <UserGlassesUse>NÃO</UserGlassesUse>
+    <UserVisionProblems>ASTIGMATISMO/MIOPIA</UserVisionProblems>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>True</CameraAutoMovement>
+    <TimeStamp>5,029978</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>11</PlayerSpeed>
+    <PlayerAcceleration>0,5</PlayerAcceleration>
+    <CameraRotationX>0</CameraRotationX>
+    <CameraRotationY>0</CameraRotationY>
+    <CameraRotationZ>0</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>46</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+</USERDATA>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<USERDATA>
+  <Data TimeStamp="0,04537438">
+    <UserGenere>feminino</UserGenere>
+    <UserAge>+50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>MUITO</UserSymptoms>
+    <UserFlicker>MUITO</UserFlicker>
+    <UserPosture>
+    </UserPosture>
+    <UserEyeDominance>DIREITO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>True</CameraAutoMovement>
+    <TimeStamp>0,04537438</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10</PlayerSpeed>
+    <PlayerAcceleration>10</PlayerAcceleration>
+    <CameraRotationX>0</CameraRotationX>
+    <CameraRotationY>0</CameraRotationY>
+    <CameraRotationZ>0</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>2</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+</USERDATA>

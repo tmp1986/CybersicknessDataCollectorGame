@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<USERDATA>
+  <Data TimeStamp="0">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>36 A 50</UserAge>
+    <UserExperience>NENHUMA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>NENHUM</UserFlicker>
+    <UserPosture>
+    </UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>0</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10</PlayerSpeed>
+    <PlayerAcceleration>10</PlayerAcceleration>
+    <CameraRotationX>-0,2141482</CameraRotationX>
+    <CameraRotationY>0,00239906</CameraRotationY>
+    <CameraRotationZ>-0,01199097</CameraRotationZ>
+    <RegionOfInterest>foreground</RegionOfInterest>
+    <GameFps>0</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="1,038444">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>36 A 50</UserAge>
+    <UserExperience>NENHUMA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>NENHUM</UserFlicker>
+    <UserPosture>
+    </UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>1,038444</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>-0,2141482</CameraRotationX>
+    <CameraRotationY>0,00239906</CameraRotationY>
+    <CameraRotationZ>-0,01199097</CameraRotationZ>
+    <RegionOfInterest>foreground</RegionOfInterest>
+    <GameFps>14</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="2,027191">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>36 A 50</UserAge>
+    <UserExperience>NENHUMA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>NENHUM</UserFlicker>
+    <UserPosture>
+    </UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>2,027191</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>-0,2141482</CameraRotationX>
+    <CameraRotationY>0,00239906</CameraRotationY>
+    <CameraRotationZ>-0,01199097</CameraRotationZ>
+    <RegionOfInterest>middleground</RegionOfInterest>
+    <GameFps>42</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="3,03133">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>36 A 50</UserAge>
+    <UserExperience>NENHUMA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>NENHUM</UserFlicker>
+    <UserPosture>
+    </UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>3,03133</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>-0,2141482</CameraRotationX>
+    <CameraRotationY>0,00239906</CameraRotationY>
+    <CameraRotationZ>-0,01199097</CameraRotationZ>
+    <RegionOfInterest>foreground</RegionOfInterest>
+    <GameFps>44</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="4,030313">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>36 A 50</UserAge>
+    <UserExperience>NENHUMA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>NENHUM</UserFlicker>
+    <UserPosture>
+    </UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>4,030313</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10,5</PlayerSpeed>
+    <PlayerAcceleration>0,5</PlayerAcceleration>
+    <CameraRotationX>-0,2141482</CameraRotationX>
+    <CameraRotationY>0,00239906</CameraRotationY>
+    <CameraRotationZ>-0,01199097</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>42</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="5,02884">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>36 A 50</UserAge>
+    <UserExperience>NENHUMA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>NENHUM</UserFlicker>
+    <UserPosture>
+    </UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>5,02884</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10,5</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>-0,2141482</CameraRotationX>
+    <CameraRotationY>0,00239906</CameraRotationY>
+    <CameraRotationZ>-0,01199097</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>42</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="6,033939">
+    <UserGenere>masculino</UserGenere>
+    <UserAge>36 A 50</UserAge>
+    <UserExperience>NENHUMA</UserExperience>
+    <UserSymptoms>ALGUM</UserSymptoms>
+    <UserFlicker>NENHUM</UserFlicker>
+    <UserPosture>
+    </UserPosture>
+    <UserEyeDominance>ESQUERDO</UserEyeDominance>
+    <StaticFrame>False</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>total</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>6,033939</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>10,5</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>-0,2141482</CameraRotationX>
+    <CameraRotationY>0,00239906</CameraRotationY>
+    <CameraRotationZ>-0,01199097</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>40</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+</USERDATA>

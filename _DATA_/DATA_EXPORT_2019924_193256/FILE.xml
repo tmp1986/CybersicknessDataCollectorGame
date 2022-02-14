@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<USERDATA>
+  <Data TimeStamp="0">
+    <UserGenere>feminino</UserGenere>
+    <UserAge>+50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>MUITO</UserSymptoms>
+    <UserFlicker>MUITO</UserFlicker>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>DIREITO</UserEyeDominance>
+    <StaticFrame>True</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>0</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>0</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>0,03397057</CameraRotationX>
+    <CameraRotationY>0,06422412</CameraRotationY>
+    <CameraRotationZ>0,03162391</CameraRotationZ>
+    <RegionOfInterest>foreground</RegionOfInterest>
+    <GameFps>0</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="1,033552">
+    <UserGenere>feminino</UserGenere>
+    <UserAge>+50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>MUITO</UserSymptoms>
+    <UserFlicker>MUITO</UserFlicker>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>DIREITO</UserEyeDominance>
+    <StaticFrame>True</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>1,033552</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>0</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>0,03397057</CameraRotationX>
+    <CameraRotationY>0,06422412</CameraRotationY>
+    <CameraRotationZ>0,03162391</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>18</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="2,039293">
+    <UserGenere>feminino</UserGenere>
+    <UserAge>+50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>MUITO</UserSymptoms>
+    <UserFlicker>MUITO</UserFlicker>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>DIREITO</UserEyeDominance>
+    <StaticFrame>True</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>2,039293</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>0</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>0,03397057</CameraRotationX>
+    <CameraRotationY>0,06422412</CameraRotationY>
+    <CameraRotationZ>0,03162391</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>50</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="3,039121">
+    <UserGenere>feminino</UserGenere>
+    <UserAge>+50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>MUITO</UserSymptoms>
+    <UserFlicker>MUITO</UserFlicker>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>DIREITO</UserEyeDominance>
+    <StaticFrame>True</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>3,039121</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>0</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>0,03397057</CameraRotationX>
+    <CameraRotationY>0,06422412</CameraRotationY>
+    <CameraRotationZ>0,03162391</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>48</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="4,035285">
+    <UserGenere>feminino</UserGenere>
+    <UserAge>+50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>MUITO</UserSymptoms>
+    <UserFlicker>MUITO</UserFlicker>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>DIREITO</UserEyeDominance>
+    <StaticFrame>True</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>4,035285</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>0</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>0,03397057</CameraRotationX>
+    <CameraRotationY>0,06422412</CameraRotationY>
+    <CameraRotationZ>0,03162391</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>44</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="5,032261">
+    <UserGenere>feminino</UserGenere>
+    <UserAge>+50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>MUITO</UserSymptoms>
+    <UserFlicker>MUITO</UserFlicker>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>DIREITO</UserEyeDominance>
+    <StaticFrame>True</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>5,032261</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>0</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>0,03397057</CameraRotationX>
+    <CameraRotationY>0,06422412</CameraRotationY>
+    <CameraRotationZ>0,03162391</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>46</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+  <Data TimeStamp="6,026773">
+    <UserGenere>feminino</UserGenere>
+    <UserAge>+50</UserAge>
+    <UserExperience>MUITA</UserExperience>
+    <UserSymptoms>MUITO</UserSymptoms>
+    <UserFlicker>MUITO</UserFlicker>
+    <UserPosture>DE PÉ</UserPosture>
+    <UserEyeDominance>DIREITO</UserEyeDominance>
+    <StaticFrame>True</StaticFrame>
+    <HapticFeedback>False</HapticFeedback>
+    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DofSimulation>False</DofSimulation>
+    <Locomotion>False</Locomotion>
+    <CameraAutoMovement>False</CameraAutoMovement>
+    <TimeStamp>6,026773</TimeStamp>
+    <CameraFieldOfView>95,63988</CameraFieldOfView>
+    <PlayerSpeed>0</PlayerSpeed>
+    <PlayerAcceleration>0</PlayerAcceleration>
+    <CameraRotationX>0,03397057</CameraRotationX>
+    <CameraRotationY>0,06422412</CameraRotationY>
+    <CameraRotationZ>0,03162391</CameraRotationZ>
+    <RegionOfInterest>background</RegionOfInterest>
+    <GameFps>40</GameFps>
+    <DiscomfortLevel>0</DiscomfortLevel>
+  </Data>
+</USERDATA>

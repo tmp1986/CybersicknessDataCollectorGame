@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 44e81e05eefbae343bb9b5d5c1edd486
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back Seats
+    100002: Back_Wheel_Left
+    100004: Back_Wheel_Right
+    100006: Cabin
+    100008: Car_Body
+    100010: Chase
+    100012: Chrome
+    100014: Dashboard_Glass_Left
+    100016: Dashboard_Glass_Left001
+    100018: Dashboard_Left
+    100020: Dashboard_Left001
+    100022: Front Pumber
+    100024: Front_Wheel_Left
+    100026: Front_Wheel_Right
+    100028: //RootNode
+    100030: glass
+    100032: Left Seat
+    100034: Lights
+    100036: Plate Number
+    100038: Rear Pumber
+    100040: Render_Left
+    100042: Render_Left001
+    100044: Right Seat
+    100046: Side Mirrors
+    100048: Steering_Left
+    100050: Steering_Left001
+    100052: Dashboard_Glass_Right
+    100054: Dashboard_Right
+    100056: Render_Right
+    100058: Steering_Right
+    400000: Back Seats
+    400002: Back_Wheel_Left
+    400004: Back_Wheel_Right
+    400006: Cabin
+    400008: Car_Body
+    400010: Chase
+    400012: Chrome
+    400014: Dashboard_Glass_Left
+    400016: Dashboard_Glass_Left001
+    400018: Dashboard_Left
+    400020: Dashboard_Left001
+    400022: Front Pumber
+    400024: Front_Wheel_Left
+    400026: Front_Wheel_Right
+    400028: //RootNode
+    400030: glass
+    400032: Left Seat
+    400034: Lights
+    400036: Plate Number
+    400038: Rear Pumber
+    400040: Render_Left
+    400042: Render_Left001
+    400044: Right Seat
+    400046: Side Mirrors
+    400048: Steering_Left
+    400050: Steering_Left001
+    400052: Dashboard_Glass_Right
+    400054: Dashboard_Right
+    400056: Render_Right
+    400058: Steering_Right
+    2300000: Back Seats
+    2300002: Back_Wheel_Left
+    2300004: Back_Wheel_Right
+    2300006: Cabin
+    2300008: Car_Body
+    2300010: Chase
+    2300012: Chrome
+    2300014: Dashboard_Glass_Left
+    2300016: Dashboard_Glass_Left001
+    2300018: Dashboard_Left
+    2300020: Dashboard_Left001
+    2300022: Front Pumber
+    2300024: Front_Wheel_Left
+    2300026: Front_Wheel_Right
+    2300028: glass
+    2300030: Left Seat
+    2300032: Lights
+    2300034: Plate Number
+    2300036: Rear Pumber
+    2300038: Render_Left
+    2300040: Render_Left001
+    2300042: Right Seat
+    2300044: Side Mirrors
+    2300046: Steering_Left
+    2300048: Steering_Left001
+    2300050: Dashboard_Glass_Right
+    2300052: Dashboard_Right
+    2300054: Render_Right
+    2300056: Steering_Right
+    3300000: Back Seats
+    3300002: Back_Wheel_Left
+    3300004: Back_Wheel_Right
+    3300006: Cabin
+    3300008: Car_Body
+    3300010: Chase
+    3300012: Chrome
+    3300014: Dashboard_Glass_Left
+    3300016: Dashboard_Glass_Left001
+    3300018: Dashboard_Left
+    3300020: Dashboard_Left001
+    3300022: Front Pumber
+    3300024: Front_Wheel_Left
+    3300026: Front_Wheel_Right
+    3300028: glass
+    3300030: Left Seat
+    3300032: Lights
+    3300034: Plate Number
+    3300036: Rear Pumber
+    3300038: Render_Left
+    3300040: Render_Left001
+    3300042: Right Seat
+    3300044: Side Mirrors
+    3300046: Steering_Left
+    3300048: Steering_Left001
+    3300050: Dashboard_Glass_Right
+    3300052: Dashboard_Right
+    3300054: Render_Right
+    3300056: Steering_Right
+    4300000: glass
+    4300002: Back_Wheel_Left
+    4300004: Back_Wheel_Right
+    4300006: Front_Wheel_Right
+    4300008: Lights
+    4300010: Right Seat
+    4300012: Back Seats
+    4300014: Left Seat
+    4300016: Plate Number
+    4300018: Front_Wheel_Left
+    4300020: Chrome
+    4300022: Side Mirrors
+    4300024: Car_Body
+    4300026: Front Pumber
+    4300028: Rear Pumber
+    4300030: Cabin
+    4300032: Chase
+    4300034: Render_Left001
+    4300036: Dashboard_Left001
+    4300038: Dashboard_Glass_Left001
+    4300040: Steering_Left001
+    4300042: Render_Left
+    4300044: Dashboard_Left
+    4300046: Dashboard_Glass_Left
+    4300048: Steering_Left
+    4300050: Render_Right
+    4300052: Dashboard_Right
+    4300054: Dashboard_Glass_Right
+    4300056: Steering_Right
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabin
+    second: {fileID: 2100000, guid: 5e2a1a94bca0ee445b0c9b76a11a478b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chase
+    second: {fileID: 2100000, guid: 4a615040bf14e6543b595a85122c4c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 093600b3558dee24fa443c639eb699c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dashboard
+    second: {fileID: 2100000, guid: 39cb64c2a0a6943488ff1c26f0e27e1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dashboard_Glass
+    second: {fileID: 2100000, guid: ab9fdaf44f4d3d04c864ceb69526b3b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: e2dbb0b783f261b469ca10874e5bc7ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights
+    second: {fileID: 2100000, guid: 6e242be7322906a4b83876c89e59a021, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: 9ab53bd18cdb5f840a288ddbe824eb2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate Number
+    second: {fileID: 2100000, guid: 9807ba7a1616be541a7af74145c75e9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Render
+    second: {fileID: 2100000, guid: 8dad821944ed97c41a79474e85f685ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rim
+    second: {fileID: 2100000, guid: 71d6bead015204843a11c8f4b0548403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seats
+    second: {fileID: 2100000, guid: c7142cc908f82364e84b5efa7bc8bce0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire
+    second: {fileID: 2100000, guid: f3a0401b65774e84bb93fee0fb9a5ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car Body
+    second: {fileID: 2100000, guid: f9e95614d34548640a101fd8939975ce, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

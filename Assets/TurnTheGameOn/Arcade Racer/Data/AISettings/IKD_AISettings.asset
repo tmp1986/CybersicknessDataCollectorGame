@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e732eb2a4ddf7c4a91b5159c715d289, type: 3}
+  m_Name: IKD_AISettings
+  m_EditorClassIdentifier: 
+  routeProgressType: 0
+  changeLaneCooldown: 3
+  changeLaneDistance: 6
+  inputSensitivity:
+    steering: 0.02
+    acceleration: 1
+    brake: 1
+  useWaypointReset: 1
+  useStuckReset: 1
+  waypointReset: 60
+  stuckReset: 5
+  enableSensors: 1
+  updateInterval: 0.03
+  detectionLayers:
+    serializedVersion: 2
+    m_Bits: 3758096384
+  sensorHeight: 1
+  sensorFCenterWidth: 0.35
+  sensorFSideWidth: 0.8
+  sensorLRWidth: 5
+  sensorFCenterLength: 6.5
+  sensorFSideLength: 10
+  sensorLRLength: 6
+  cautionMaxAngle: 120
+  cautionAngularVelocityFactor: 1
+  minCautionDefault: 0
+  minCautionIfGoToPitStopDefault: 0.4
+  pitLaneCautionDistanceThreshold: 20
+  autoCautionDistanceThreshold: 0
+  cautionSlowSpeed: 0
+  lookAheadMin: 0.5
+  lookAheadMax: 1
+  useWaypointDistanceThreshold: 1
+  waypointDistanceThreshold: 6

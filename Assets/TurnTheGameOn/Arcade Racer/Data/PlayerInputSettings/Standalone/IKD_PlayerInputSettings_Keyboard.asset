@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a9a1619b3364294299f448a0b82caa5, type: 3}
+  m_Name: IKD_PlayerInputSettings_Keyboard
+  m_EditorClassIdentifier: 
+  mobileCanvas: {fileID: 114473925136211070, guid: fc841b2b90713754a957058086cf38d6,
+    type: 3}
+  defaultCanvas: {fileID: 114942738239709654, guid: 6a125f8cdb8da2348bdcef8c29ea459c,
+    type: 3}
+  uIType: 1
+  mobileSteeringType: 0
+  inputAxes:
+    name: KEYBOARD
+    steering: Horizontal
+    throttle: Vertical
+    brake: Vertical
+    nitro: Nitro
+    handBrake: Hand Brake
+    shiftUp: Shift Up
+    shiftDown: Shift Down
+    lookBack: Look Back
+    cycleCamera: Cycle Camera
+    horizontalCameraRotation: Horizontal Camera Rotation
+    invertFootBrake: 0
+    releaseBrakeToReverse: 0
